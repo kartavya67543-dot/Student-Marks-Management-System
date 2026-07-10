@@ -21,7 +21,3 @@ A beginner Excel project that automatically calculates student results.
 - Nested IF
 - Conditional Formatting
 - Excel Tables
-
-## Screenshot
-
-(Add your screenshot here on GitHub)
